@@ -1,6 +1,4 @@
 {
-  "locations": [
-    {
     "United States": {
     "Alabama": ["auburn", "birmingham", "dothan", "florence / muscle shoals", "gadsden-anniston", "huntsville / decatur", "mobile", "montgomery", "tuscaloosa"],
     "Alaska": ["anchorage / mat-su", "fairbanks", "kenai peninsula", "southeast alaska"],
@@ -155,7 +153,4 @@
     "South Africa": ["cape town", "durban", "johannesburg", "pretoria"],
     "Tunisia": ["tunisia"]
         }
-      ]
-    }
-  ]
-}
+  
