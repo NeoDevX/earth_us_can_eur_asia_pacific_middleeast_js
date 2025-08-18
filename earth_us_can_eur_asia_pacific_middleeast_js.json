@@ -1,5 +1,7 @@
 {
-  "United States": {
+  "locations": [
+    {
+    "United States": {
     "Alabama": ["auburn", "birmingham", "dothan", "florence / muscle shoals", "gadsden-anniston", "huntsville / decatur", "mobile", "montgomery", "tuscaloosa"],
     "Alaska": ["anchorage / mat-su", "fairbanks", "kenai peninsula", "southeast alaska"],
     "Arizona": ["flagstaff / sedona", "mohave county", "phoenix", "prescott", "show low", "sierra vista", "tucson", "yuma"],
@@ -152,6 +154,8 @@
     "Morocco": ["morocco"],
     "South Africa": ["cape town", "durban", "johannesburg", "pretoria"],
     "Tunisia": ["tunisia"]
-  }
+        }
+      ]
+    }
+  ]
 }
-
